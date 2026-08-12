@@ -35,7 +35,7 @@ I primarily work with **Laravel** to build and maintain web applications and bac
 
 **Database**
 - MySQL
-- Supabase
+- pSQL
 - Firebase
 
 **Tools**
@@ -43,18 +43,15 @@ I primarily work with **Laravel** to build and maintain web applications and bac
 - GitHub
 - Linux
 - VS Code
+- Postman
+- Canva
+- Stitch Ai
+- Claude
+- Antigravity
 
 **Apis**
 - Rest API
   
----
-
-### ☁️ Currently Learning
-
-- Cloud Computing Fundamentals
-- Cloud Infrastructure
-- DevOps Basics
-
 ---
 
 ### 📊 GitHub Statistics
