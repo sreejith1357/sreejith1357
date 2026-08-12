@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreejith</h1>
-<h3 align="center">Software Developer | Laravel Developer | Aspiring Cloud Engineer</h3>
+<h3 align="center">Software Developer | Laravel Developer | Flutter Developer</h3>
 
 ---
 
@@ -7,9 +7,7 @@
 
 I am a **Diploma Computer Engineering graduate** currently working as a **Software Developer Intern at the Centre for Management Development (Government of Kerala)**.
 
-I primarily work with **Laravel** to build and maintain web applications and backend systems.  
-Alongside my professional work, I am actively learning **Cloud Engineering** to expand my expertise in modern scalable infrastructure and cloud-native systems.
-
+I primarily work with **Laravel** to build and maintain web applications and backend systems, while leveraging **Flutter** to develop cross-platform mobile applications for iOS and Android, alongside delivering diverse projects in **Python** and **Java**.
 ---
 
 ### 💼 Current Role
